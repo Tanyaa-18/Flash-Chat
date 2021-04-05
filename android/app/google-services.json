@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347004693050",
+    "project_id": "flash-chat-aac15",
+    "storage_bucket": "flash-chat-aac15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347004693050:android:9496e5b57a12c3a73f6303",
+        "android_client_info": {
+          "package_name": "co.Tanya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347004693050-avbpt8o5et5nh9kqcrm2h9q6g3mr350c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlSlByoropGdEB5bROoUS1Aguk_T0qug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347004693050-avbpt8o5et5nh9kqcrm2h9q6g3mr350c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
